@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\labi\2sem\kpo\lab1\разбиение\ConsoleApplication1\main.cpp(12,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  countDay.cpp
+  ConsoleApplication1.vcxproj -> C:\labi\2sem\kpo\lab1\x64\Debug\ConsoleApplication1.exe

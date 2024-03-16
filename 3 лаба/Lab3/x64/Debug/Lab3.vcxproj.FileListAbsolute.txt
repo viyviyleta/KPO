@@ -1,0 +1,2 @@
+C:\labi\2sem\kpo\lab3\Lab3\x64\Debug\main.exe
+D:\2 семестр\КПО\3 лаба\Lab3\x64\Debug\main.exe
