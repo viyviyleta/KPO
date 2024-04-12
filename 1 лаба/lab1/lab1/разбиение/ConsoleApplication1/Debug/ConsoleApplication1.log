@@ -1,3 +1,6 @@
 ﻿  main.cpp
-D:\2 семестр\КПО\1 лаба\lab1\lab1\разбиение\ConsoleApplication1\main.cpp(12,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  ConsoleApplication1.vcxproj -> D:\2 семестр\КПО\1 лаба\lab1\lab1\Debug\ConsoleApplication1.exe
+D:\2 семестр\КПО\KPO\1 лаба\lab1\lab1\разбиение\ConsoleApplication1\main.cpp(12,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  countDay.cpp
+  VisYear.cpp
+  Создание кода...
+  ConsoleApplication1.vcxproj -> D:\2 семестр\КПО\KPO\1 лаба\lab1\lab1\Debug\ConsoleApplication1.exe
